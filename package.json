@@ -1,0 +1,19 @@
+{
+  "name": "newsapi",
+  "version": "1.0.0",
+  "description": "News API is a simple and easy-to-use API that returns JSON metadata for the headlines currently published on a range of news sources and blogs (72 and counting so far).",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guscaplan/node-newsapi.git"
+  },
+  "author": "Gus Caplan <me@gus.host>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guscaplan/node-newsapi/issues"
+  },
+  "homepage": "https://github.com/guscaplan/node-newsapi#readme",
+  "dependencies": {
+    "snekfetch": "github:guscaplan/snekfetch"
+  }
+}
